@@ -9,8 +9,8 @@ Feel free to try this well-documented project! :)
 ## Demo
 #### Let's try the app for <a href="https://www.google.com/recaptcha/api2/demo" target="_blank">official google recaptcha demo</a> site:
 
-<img src="https://drive.google.com/uc?export=download&id=1b5rMiJdTRod5EkNa7j7r7GbQ2aA3xZOG"/>
-     
+<img src="https://drive.google.com/uc?export=download&id=1b5rMiJdTRod5EkNa7j7r7GbQ2aA3xZOG" alt='If not loaded, click here'/>
+
 ## Usage
 1- Sign-up and create "Speech to Text" service:
 * Go to the <a href="https://cloud.ibm.com/catalog/services/speech-to-text">Speech to Text page</a>
